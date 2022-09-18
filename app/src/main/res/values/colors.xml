@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#C58C39</color>
+    <color name="colorPrimary">#D8205F</color>
+    <color name="colorPrimaryDark">#D156E6</color>
+
+    <color name="color_light_grey">#4d4d4d</color>
+
+    <drawable name="touchFeedback">#317FA1</drawable>
+</resources>
